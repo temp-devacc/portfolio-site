@@ -7,3 +7,4 @@ Work in progress personal portfolio. Built with HTML/CSS, planning to add a proj
 - [ ] Add dark mode toggle
 - [ ] Deploy to GitHub Pages
 - [ ] maybe a game
+- [ ] show achievements
