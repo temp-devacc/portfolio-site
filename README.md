@@ -8,3 +8,4 @@ Work in progress personal portfolio. Built with HTML/CSS, planning to add a proj
 - [ ] Deploy to GitHub Pages
 - [ ] maybe a game
 - [ ] show achievements
+- [ ] maybe explore more?
